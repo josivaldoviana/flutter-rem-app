@@ -13,7 +13,7 @@ Esse aplicativo é totalmente uma piada. Fiz pq estava com tédio. Não tem viru
 Não existe razão alguma para vc testar isso no seu celular, mas vou deixar o arquivo APK só de meme
 
 1. Abra o repositório
-2. Clique sob o arquivo nomeado como app-release
+2. Clique sob o arquivo nomeado como app-release.apk
 3. Procure o botão de Download
 4. Faça a instalação
 
