@@ -16,3 +16,5 @@ Não existe razão alguma para vc testar isso no seu celular, mas vou deixar o a
 2. Clique sob o arquivo nomeado como app-release
 3. Procure o botão de Download
 4. Faça a instalação
+
+obs: O aplicativo não foi configurado para todos os tipos de tela, caso encontre algum bug de interface sinto muito
